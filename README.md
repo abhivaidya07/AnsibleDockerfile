@@ -27,4 +27,4 @@ This command runs the playbook in the container or on remote host depending on i
 
 $ ssh root@localhost -p port_no 
 
-You can also take ssh of the container using port mapped to container's 22 port.
+You can also take ssh of the container using port, mapped to container's 22 port.
