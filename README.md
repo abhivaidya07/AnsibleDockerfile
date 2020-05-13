@@ -1,5 +1,8 @@
 # ansible_dockerfile
 # AnsibleDockerfile
+THIS DOCKERFILE RUNS A PLAYBOOK IN A CONTAINER.
+
+Steps: 
 MOVE TO FOLDER WHERE DOCKERFILE AND PLAY FOLDER IS PRESENT AND RUN FOLLOWING COMMANDS:
 
 docker build -t ansible .
